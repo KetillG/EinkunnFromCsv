@@ -1,13 +1,13 @@
 var fileInput = document.getElementById("csv"),
 
-    readFile = function () {
-        var reader = new FileReader();
-        reader.onload = function () {
-            generateData(reader.result);
-        };
-        // start reading the file. When it is done, calls the onload event defined above.
-        reader.readAsText(fileInput.files[0], 'ISO-8859-1');
-    };
+readFile = function () {
+  var reader = new FileReader();
+  reader.onload = function () {
+    generateData(reader.result);
+  };
+  // start reading the file. When it is done, calls the onload event defined above.
+  reader.readAsText(fileInput.files[0], 'ISO-8859-1');
+};
 
 fileInput.addEventListener('change', readFile);
 // Creates the Text Files
