@@ -1,0 +1,16 @@
+Vefforritun	Verkefni 3
+ 
+Upplýsingar um einkunnagjöf:
+4: 5%
+Alls: 100.00%
+ 
+====================== ÞÍNAR EINKUNNIR ======================
+Nemandi: hrs70
+4: 50,00%
+Alls: 100,00%
+ 
+Einkunn: 100,00
+===================== ATHUGASEMDIR ===========================
+ 
+<li> tag skal aldrei standa sjálft. Ekki er þörf að passa upp á það í þessu verkefni en dregið verður niður fyrir svona í næstu verkefnum. Sjá hér: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li ==============================================================
+emailið er auto-generatað.

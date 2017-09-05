@@ -5,6 +5,7 @@
     <title></title>
   </head>
   <body>
+    <button onclick="send_email()">Add</button>
     <p>Select local CSV File:</p>
     <p>Assignment number: </p><input type="number" id="ass">
     <p>Number of factors:  <span id='count'>1</span></p>
@@ -14,6 +15,7 @@
     <button onclick="moreFac()">Add</button>
     <input id="csv" type="file" style="margin-top:50px"></input>
   </body>
+  <script type="text/javascript" src="email.js"></script>
   <script type="text/javascript" src="FileSaver.js"></script>
   <script type="text/javascript" src="js.js"></script>
 </html>

@@ -27,15 +27,16 @@
     }
 
     function send_email() {
+      console.log("test")
         var result = "";
 
         var oMail = new EASendMailRT.SmtpMail("TryIt");
 
         // Set Gmail sender email address, please change it to yours
-        oMail.from = new EASendMailRT.MailAddress("gmailid@gmail.com");
+        oMail.from = new EASendMailRT.MailAddress("ketillgudmunds@gmail.com");
 
         // Add recipient email address, please change it to yours
-        oMail.to.add(new EASendMailRT.MailAddress("support@emailarchitect.net"));
+        oMail.to.add(new EASendMailRT.MailAddress("ketillgudmunds@emailarchitect.net"));
 
         // Set email subject
         oMail.subject = "test email from JavaScript HTML5 project";
@@ -47,8 +48,8 @@
         var oServer = new EASendMailRT.SmtpServer("smtp.gmail.com");
 
         // User and password for Gmail authentication
-        oServer.user = "gmailid@gmail.com";
-        oServer.password = "testpassword";
+        oServer.user = "ketillgudmunds@gmail.com";
+        oServer.password = "hkiurdrzzwwiuzhc";
 
         // Enable SS connection on 465 port
         oServer.port = 465;

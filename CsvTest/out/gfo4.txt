@@ -1,0 +1,16 @@
+Vefforritun	Verkefni 3
+ 
+Upplýsingar um einkunnagjöf:
+4: 5%
+Alls: 100.00%
+ 
+====================== ÞÍNAR EINKUNNIR ======================
+Nemandi: gfo4
+4: 50,00%
+Alls: 100,00%
+ 
+Einkunn: 100,00
+===================== ATHUGASEMDIR ===========================
+ 
+Endilega hafa réttan inndrátt á kóðanum. Einnig skal title alltaf vera innan í head==============================================================
+emailið er auto-generatað.
