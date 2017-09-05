@@ -1,22 +1,0 @@
-Vefforritun	Verkefni 2
- 
-Upplýsingar um einkunnagjöf:
-Text: null%
-null: null%
-50: null%
-50: undefined%
-Alls: 100.00%
- 
-====================== ÞÍNAR EINKUNNIR ======================
-Nemandi: jth56
-Text: 50,00%
-null: 50,00%
-50: 100,00%
-50: %
-Alls: 100,00%
- 
-Einkunn: 100,00
-===================== ATHUGASEMDIR ===========================
- 
-==============================================================
-emailið er auto-generatað.
