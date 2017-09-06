@@ -5,14 +5,13 @@ Upplýsingar um einkunnagjöf:
 Alls: 100.00%
  
 ====================== ÞÍNAR EINKUNNIR ======================
-Nemandi: keg13
-2: 50%
-Alls: 100%
+Nemandi: NotAHIMailTest
+2: 30%
+Alls: 75%
  
-Einkunn: 100
+Einkunn: 75
 ===================== ATHUGASEMDIR ===========================
  
- 
+Comment 2 
 ==============================================================
 emailið er auto-generatað.
-tað.

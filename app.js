@@ -93,7 +93,7 @@ app.post('/files', function(req, res) {
       // Set up the mail options
       var mailOptions = {
         from: authData[2] ? authData[2] : authData[0] + '@gmail.com',
-        to: 'ketillgudmunds@gmail.com',
+        to: thisText[0] + "@hi.is",
         subject: 'Verkefni' + assid,
         text: 'Sjá fylgiskjal',
         attachments: [
