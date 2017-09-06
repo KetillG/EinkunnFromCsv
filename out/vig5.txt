@@ -1,16 +1,0 @@
-Vefforritun	Verkefni 3
- 
-Upplýsingar um einkunnagjöf:
-4: 5%
-Alls: 100.00%
- 
-====================== ÞÍNAR EINKUNNIR ======================
-Nemandi: vig5
-4: 45,00%
-Alls: 95,00%
- 
-Einkunn: 95,00
-===================== ATHUGASEMDIR ===========================
- 
-"Mynd átti að vera inn á ""about.html"" síðu"==============================================================
-emailið er auto-generatað.

@@ -1,16 +1,0 @@
-Vefforritun	Verkefni 3
- 
-Upplýsingar um einkunnagjöf:
-4: 5%
-Alls: 100.00%
- 
-====================== ÞÍNAR EINKUNNIR ======================
-Nemandi: saj53
-4: 50,00%
-Alls: 100,00%
- 
-Einkunn: 100,00
-===================== ATHUGASEMDIR ===========================
- 
-"Skýra skal forsíðuna ""index.html"""==============================================================
-emailið er auto-generatað.

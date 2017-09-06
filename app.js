@@ -44,15 +44,15 @@ app.post('/files', function(req, res) {
   var factorText = req.body.factorText;
   var factorNum = req.body.factorNum;
   var assid = req.body.assid;
-  var sendMail =  req.body.sendMail;
+  var sendMail = req.body.sendMail;
   console.log(sendMail);
 
   var textArray = text.split('\n');
   console.log(req.body);
   // Creates the text file for each user
   for(var i = 0; i < textArray.length; i++) {
-    if(thisText[0] === '') break;
     var thisText = textArray[i].split(";");
+    if(thisText[0] === '') break;
     var genText = 'Vefforritun	Verkefni ' + assid + "\r\n";
     genText += " " + "\r\n";
 
@@ -71,13 +71,15 @@ app.post('/files', function(req, res) {
     genText += " "+ "\r\n";
 
     genText += "Einkunn: "+ thisText[thisText.length-2] + "\r\n";
-    genText += "===================== ATHUGASEMDIR ===========================" + "\r\n";
 
+    genText += "===================== ATHUGASEMDIR ===========================" + "\r\n";
     genText += " "+ "\r\n";
     genText += thisText[thisText.length-1];
+    genText += " "+ "\r\n";
     genText += "==============================================================" + "\r\n";
 
     genText += "emailið er auto-generatað."+ "\r\n";
+    console.log(4);
     // Save the text file locally
     fs.writeFile("./out/" + thisText[0] + ".txt", genText, 'utf8', function(err) {
       if(err) {
@@ -85,11 +87,12 @@ app.post('/files', function(req, res) {
       }
       console.log("The file was saved!");
     });
+    console.log(5);
     // mail functionality
     if(sendMail) {
       // Set up the mail options
       var mailOptions = {
-        from: 'keg13@hi.is',
+        from: authData[2] ? authData[2] : authData[0] + '@gmail.com',
         to: 'ketillgudmunds@gmail.com',
         subject: 'Verkefni' + assid,
         text: 'Sjá fylgiskjal',

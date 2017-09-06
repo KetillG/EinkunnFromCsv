@@ -1,16 +1,0 @@
-Vefforritun	Verkefni 3
- 
-Upplýsingar um einkunnagjöf:
-4: 5%
-Alls: 100.00%
- 
-====================== ÞÍNAR EINKUNNIR ======================
-Nemandi: ajt2
-4: 40,00%
-Alls: 90,00%
- 
-Einkunn: 90,00
-===================== ATHUGASEMDIR ===========================
- 
-"Enginn mynd sést, þegar fylgi urlinum fæ ég ""Your client does not have permission to get URL "". Mikilvægt að athuga svona hluti."==============================================================
-emailið er auto-generatað.

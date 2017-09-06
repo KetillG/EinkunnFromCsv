@@ -1,16 +1,0 @@
-Vefforritun	Verkefni 3
- 
-Upplýsingar um einkunnagjöf:
-4: 5%
-Alls: 100.00%
- 
-====================== ÞÍNAR EINKUNNIR ======================
-Nemandi: gbo14
-4: 50,00%
-Alls: 70,00%
- 
-Einkunn: 70,00
-===================== ATHUGASEMDIR ===========================
- 
-Hvorug síða notar utf-8 stafasett. Vantar efst að segja til um hvaða týpa af html þetta er(Doctype). Body skal aldrei vera inn í head.==============================================================
-emailið er auto-generatað.

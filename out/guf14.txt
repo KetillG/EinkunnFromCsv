@@ -1,18 +1,0 @@
-Vefforritun	Verkefni 3
- 
-Upplýsingar um einkunnagjöf:
-Text 1: 1%
-Text 2: 2%
-Alls: 100.00%
- 
-====================== ÞÍNAR EINKUNNIR ======================
-Nemandi: guf14
-Text 1: 50%
-Text 2: 50%
-Alls: 50%
- 
-Einkunn: 50
-===================== ATHUGASEMDIR ===========================
- 
-100==============================================================
-emailið er auto-generatað.
