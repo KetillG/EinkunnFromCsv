@@ -70,7 +70,7 @@ app.post('/files', function(req, res) {
     genText += "Alls: " + thisText[thisText.length-2] + "%" + "\r\n";
     genText += " "+ "\r\n";
 
-    genText += "Einkunn: "+ thisText[thisText.length-2] + "\r\n";
+    genText += "Einkunn: "+ thisText[thisText.length-2] * 1 / 10 + "\r\n";
 
     genText += "===================== ATHUGASEMDIR ===========================" + "\r\n";
     genText += " "+ "\r\n";
