@@ -70,7 +70,11 @@ app.post('/files', function(req, res) {
     genText += "Alls: " + thisText[thisText.length-2] + "%" + "\r\n";
     genText += " "+ "\r\n";
 
-    genText += "Einkunn: "+ thisText[thisText.length-2] * 1 / 10 + "\r\n";
+    var commaNumber = thisText[thisText.length-2];
+    var intNumber = commaNumber.replace(/,/gi, '.');
+    intNumber = (intNumber - 0) / 10;
+    console.log(intNumber)
+    genText += "Einkunn: "+ intNumber + "\r\n";
 
     genText += "===================== ATHUGASEMDIR ===========================" + "\r\n";
     genText += " "+ "\r\n";
@@ -79,7 +83,6 @@ app.post('/files', function(req, res) {
     genText += "==============================================================" + "\r\n";
 
     genText += "emailið er auto-generatað."+ "\r\n";
-    console.log(4);
     // Save the text file locally
     fs.writeFile("./out/" + thisText[0] + ".txt", genText, 'utf8', function(err) {
       if(err) {
@@ -87,34 +90,38 @@ app.post('/files', function(req, res) {
       }
       console.log("The file was saved!");
     });
-    console.log(5);
     // mail functionality
     if(sendMail) {
       // Set up the mail options
-      var mailOptions = {
-        from: authData[2] ? authData[2] : authData[0] + '@gmail.com',
-        to: thisText[0] + "@hi.is",
-        subject: 'Verkefni' + assid,
-        text: 'Sjá fylgiskjal',
-        attachments: [
-          {
-              filename: thisText[0] + '.txt',
-              path: './out/' + thisText[0] + '.txt'
-          },
-        ]
-      };
-      // Send the mail
-      transporter.sendMail(mailOptions, function(error, info){
-        if (error) {
-          console.log(error);
-        } else {
-          console.log('Email sent: ' + info.response);
-        }
-      });
+      sendMailTo(thisText[0], assid);
     }
   }
   res.send('done');
 });
+
+function sendMailTo(hiMail, assid) {
+  var mailOptions = {
+    from: authData[2] ? authData[2] : authData[0] + '@gmail.com',
+    to: hiMail + "@hi.is",
+    subject: 'Verkefni' + assid,
+    text: 'Sjá fylgiskjal',
+    attachments: [
+      {
+          filename: hiMail + '.txt',
+          path: './out/' + hiMail + '.txt'
+      },
+    ]
+  };
+  // Send the mail
+  transporter.sendMail(mailOptions, function(error, info){
+    if (error) {
+      console.log(hiMail);
+      sendMailTo(hiMail, assid)
+    } else {
+      console.log('Email sent: ' + info.response);
+    }
+  });
+}
 
 app.use('/', index);
 app.use('/users', users);

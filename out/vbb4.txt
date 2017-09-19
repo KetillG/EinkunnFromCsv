@@ -11,19 +11,19 @@ Aðeins leyfileg eigindi notuð: 10%
 Alls: 100.00%
  
 ====================== ÞÍNAR EINKUNNIR ======================
-Nemandi: keg13
+Nemandi: vbb4
 Snyrtilega uppsett og gilt CSS: 10,00%
-CSS tengt við HTML og almennt útlit rétt: 10,00%
+CSS tengt við HTML og almennt útlit rétt: 2,00%
 em notað fyrir stærðir: 10,00%
 Aðeins leyfileg eigindi notuð: 10,00%
-Útlit á boxum rétt: 30,00%
-Útlit á texta rétt: 20,00%
-Útlit á tökkum rétt: 10,00%
-Alls: 100,00%
+Útlit á boxum rétt: 25,00%
+Útlit á texta rétt: 15,00%
+Útlit á tökkum rétt: 5,00%
+Alls: 77,00%
  
-Einkunn: 10
+Einkunn: 7.7
 ===================== ATHUGASEMDIR ===========================
  
-Flott 
+Senda skal .zip næst. V-ið í verkefni á ekki að vera stærra. Borderinn er ekki svartur á lit. Númer inn í boxum eru ekki 30px(þú notar .strong en ekki strong selector). 40px eru á milli boxa í röð af boxum. Stærð á fyrsta staf er of stór í texta. Þegar takkar eru fá focus breytist leturstærð ekki heldur padding. Ekki er æskilegt að gefa út/ afrita svör sín. 
 ==============================================================
 emailið er auto-generatað.

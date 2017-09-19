@@ -1,17 +1,0 @@
-Vefforritun	Verkefni 1
- 
-Upplýsingar um einkunnagjöf:
-2: 3%
-Alls: 100.00%
- 
-====================== ÞÍNAR EINKUNNIR ======================
-Nemandi: NotAHIMailTest
-2: 30%
-Alls: 75%
- 
-Einkunn: 75
-===================== ATHUGASEMDIR ===========================
- 
-Comment 2 
-==============================================================
-emailið er auto-generatað.

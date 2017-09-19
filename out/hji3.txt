@@ -11,19 +11,19 @@ Aðeins leyfileg eigindi notuð: 10%
 Alls: 100.00%
  
 ====================== ÞÍNAR EINKUNNIR ======================
-Nemandi: keg13
+Nemandi: hji3
 Snyrtilega uppsett og gilt CSS: 10,00%
 CSS tengt við HTML og almennt útlit rétt: 10,00%
-em notað fyrir stærðir: 10,00%
+em notað fyrir stærðir: 0,00%
 Aðeins leyfileg eigindi notuð: 10,00%
-Útlit á boxum rétt: 30,00%
-Útlit á texta rétt: 20,00%
+Útlit á boxum rétt: 24,00%
+Útlit á texta rétt: 13,00%
 Útlit á tökkum rétt: 10,00%
-Alls: 100,00%
+Alls: 77,00%
  
-Einkunn: 10
+Einkunn: 7.7
 ===================== ATHUGASEMDIR ===========================
  
-Flott 
+Notað er px í skjalinu fyrir utan leyfilega notkun. Box eru ekki í sömu hæð í röð af boxum. Einnig er ekki 20px á hægri hlið þar. Fyrsta setning né fyrsti stafur eru ekki stærri 
 ==============================================================
 emailið er auto-generatað.

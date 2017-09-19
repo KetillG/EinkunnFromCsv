@@ -11,19 +11,19 @@ Aðeins leyfileg eigindi notuð: 10%
 Alls: 100.00%
  
 ====================== ÞÍNAR EINKUNNIR ======================
-Nemandi: keg13
+Nemandi: ina23
 Snyrtilega uppsett og gilt CSS: 10,00%
-CSS tengt við HTML og almennt útlit rétt: 10,00%
-em notað fyrir stærðir: 10,00%
+CSS tengt við HTML og almennt útlit rétt: 7,00%
+em notað fyrir stærðir: 0,00%
 Aðeins leyfileg eigindi notuð: 10,00%
-Útlit á boxum rétt: 30,00%
-Útlit á texta rétt: 20,00%
+Útlit á boxum rétt: 19,00%
+Útlit á texta rétt: 18,00%
 Útlit á tökkum rétt: 10,00%
-Alls: 100,00%
+Alls: 74,00%
  
-Einkunn: 10
+Einkunn: 7.4
 ===================== ATHUGASEMDIR ===========================
  
-Flott 
+Númer í boxum almennt er ekki 30px. Mikið er notað px stærðin í skjalinu sem átti ekki að gera. Ekki eru 20px á milli boxa í röð af böxum, einnig virðist sem annað hvert box er lengra frá botninum. Box í boxum er ekki miðju jafnað. Heildartextinn hefur mjög stórt padding í kringum sig sem er ekki rétt. 
 ==============================================================
 emailið er auto-generatað.

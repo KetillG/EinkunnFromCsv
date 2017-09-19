@@ -11,19 +11,19 @@ Aðeins leyfileg eigindi notuð: 10%
 Alls: 100.00%
  
 ====================== ÞÍNAR EINKUNNIR ======================
-Nemandi: keg13
+Nemandi: dfb2
 Snyrtilega uppsett og gilt CSS: 10,00%
-CSS tengt við HTML og almennt útlit rétt: 10,00%
+CSS tengt við HTML og almennt útlit rétt: 7,00%
 em notað fyrir stærðir: 10,00%
 Aðeins leyfileg eigindi notuð: 10,00%
-Útlit á boxum rétt: 30,00%
-Útlit á texta rétt: 20,00%
-Útlit á tökkum rétt: 10,00%
-Alls: 100,00%
+Útlit á boxum rétt: 23,00%
+Útlit á texta rétt: 15,00%
+Útlit á tökkum rétt: 0,00%
+Alls: 75,00%
  
-Einkunn: 10
+Einkunn: 7.5
 ===================== ATHUGASEMDIR ===========================
  
-Flott 
+V-ið í verkefni á ekki að vera stærra. Meira en 20px eru á milli kassa í röð af kössum, einnig eru ekki 20px á milli bakgrunns og mest hægri kassans. Stærð á fyrsta staf er of stór í texta. Ekki er neitt rétt við takkana. 
 ==============================================================
 emailið er auto-generatað.

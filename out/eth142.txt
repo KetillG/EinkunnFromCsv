@@ -11,7 +11,7 @@ Aðeins leyfileg eigindi notuð: 10%
 Alls: 100.00%
  
 ====================== ÞÍNAR EINKUNNIR ======================
-Nemandi: keg13
+Nemandi: eth142
 Snyrtilega uppsett og gilt CSS: 10,00%
 CSS tengt við HTML og almennt útlit rétt: 10,00%
 em notað fyrir stærðir: 10,00%
@@ -24,6 +24,6 @@ Alls: 100,00%
 Einkunn: 10
 ===================== ATHUGASEMDIR ===========================
  
-Flott 
+Senda skal .zip næst.  
 ==============================================================
 emailið er auto-generatað.

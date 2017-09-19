@@ -11,19 +11,19 @@ Aðeins leyfileg eigindi notuð: 10%
 Alls: 100.00%
  
 ====================== ÞÍNAR EINKUNNIR ======================
-Nemandi: keg13
-Snyrtilega uppsett og gilt CSS: 10,00%
-CSS tengt við HTML og almennt útlit rétt: 10,00%
+Nemandi: gfo4
+Snyrtilega uppsett og gilt CSS: 0,00%
+CSS tengt við HTML og almennt útlit rétt: 5,00%
 em notað fyrir stærðir: 10,00%
 Aðeins leyfileg eigindi notuð: 10,00%
-Útlit á boxum rétt: 30,00%
-Útlit á texta rétt: 20,00%
+Útlit á boxum rétt: 17,00%
+Útlit á texta rétt: 15,00%
 Útlit á tökkum rétt: 10,00%
-Alls: 100,00%
+Alls: 67,00%
  
-Einkunn: 10
+Einkunn: 6.7
 ===================== ATHUGASEMDIR ===========================
  
-Flott 
+Validation error í validator. Inndráttur er ekki góður. Ekki á  að vera padding á sections á hliðunum. Boxin í röð af boxum líta ekki rétt út, þá liturinn á þeim rangur. Box í boxum eru röng. Fyrsti stafur er of stór(eftir að hafa fjarlægt auka slaufusviga þarna) 
 ==============================================================
 emailið er auto-generatað.

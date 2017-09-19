@@ -1,0 +1,29 @@
+Vefforritun	Verkefni 3
+ 
+Upplýsingar um einkunnagjöf:
+Snyrtilega uppsett og gilt CSS: 10%
+CSS tengt við HTML og almennt útlit rétt: 10%
+em notað fyrir stærðir: 10%
+Aðeins leyfileg eigindi notuð: 10%
+Útlit á boxum rétt: 30%
+Útlit á texta rétt: 20%
+Útlit á tökkum rétt: 10%
+Alls: 100.00%
+ 
+====================== ÞÍNAR EINKUNNIR ======================
+Nemandi: eoa20
+Snyrtilega uppsett og gilt CSS: 10,00%
+CSS tengt við HTML og almennt útlit rétt: 3,00%
+em notað fyrir stærðir: 10,00%
+Aðeins leyfileg eigindi notuð: 8,00%
+Útlit á boxum rétt: 17,00%
+Útlit á texta rétt: 8,00%
+Útlit á tökkum rétt: 10,00%
+Alls: 66,00%
+ 
+Einkunn: 6.6
+===================== ATHUGASEMDIR ===========================
+ 
+Grunnleturstærð er aldrei skilgreind sem 20px. Því er em hjá þér 16 en ekki 20. Font-weight var ekki leyft eigindi. Í röð af boxum er bakgrunnurinn með lit #999999 þegar hann skal hafa list #aaaaaa. Einnig er ekki 20px bil á milli allra boxa þar. Í box af boxum hefur ysta box ekki hámarksbreidd 400px. Stærð á fyrsta staf í texta er alltof mikil. Bil á milli fyrsta texta og miðjutexta er ekki 40px. Sama gildir um bil milli seinni texta og miðju texta. 
+==============================================================
+emailið er auto-generatað.
