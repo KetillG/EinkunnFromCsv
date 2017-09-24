@@ -115,10 +115,11 @@ function sendMailTo(hiMail, assid) {
   // Send the mail
   transporter.sendMail(mailOptions, function(error, info){
     if (error) {
-      console.log(hiMail);
+      console.log("error on: " + hiMail);
+      console.log("Retrying");
       sendMailTo(hiMail, assid)
     } else {
-      console.log('Email sent: ' + info.response);
+      console.log('Email sent to: ' + hiMail + ' ' + info.response);
     }
   });
 }
