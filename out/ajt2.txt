@@ -1,0 +1,29 @@
+Vefforritun	Verkefni Stórt 1
+ 
+Upplýsingar um einkunnagjöf:
+Snyrtilegt, gilt og aðgengilegt HTML: 15%
+Snyritilegt, gilt (skv. stylelint) CSS/Sass: 15%
+Almennt útlit: 20%
+Forsíða: 20%
+Kaupa síða: 10%
+Um síða: 10%
+Elements síða: 10%
+Alls: 100.00%
+ 
+====================== ÞÍNAR EINKUNNIR ======================
+Nemandi: ajt2
+Snyrtilegt, gilt og aðgengilegt HTML: 15,00%
+Snyritilegt, gilt (skv. stylelint) CSS/Sass: 15,00%
+Almennt útlit: 20,00%
+Forsíða: 20,00%
+Kaupa síða: 6,00%
+Um síða: 10,00%
+Elements síða: 10,00%
+Alls: 96,00%
+ 
+Einkunn: 9.6
+===================== ATHUGASEMDIR ===========================
+ 
+Form lítur ekki út eins og í fyrirmynd: box eru ekki rúnuð, radiotakkar líta ekki rétt út og þú getur valið að sért kona og karl á sama tíma, checkbox lítur ekki rétt út, dropdown líta ekki rétt út. 
+==============================================================
+emailið er auto-generatað.
