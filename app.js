@@ -103,7 +103,7 @@ function sendMailTo(hiMail, assid) {
   var mailOptions = {
     from: authData[2] ? authData[2] : authData[0] + '@gmail.com',
     to: hiMail + "@hi.is",
-    subject: 'Verkefni' + assid,
+    subject: 'Verkefni ' + assid,
     text: 'Sjá fylgiskjal',
     attachments: [
       {
