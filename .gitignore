@@ -2,5 +2,5 @@ CsvTest/auth.txt
 CsvTest/node_modules/
 auth.txt
 node_modules/
-npm-debug.txt
+npm-debug.log
 
